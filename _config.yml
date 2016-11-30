@@ -34,16 +34,15 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: brycematthew
+disqus: disqus_IxPpPZVlvb
 google_analytics: 
-title: Bryce McDonald - Blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Bryce McDonald - Blog
+      title: Bryce's Blog
 
 description: The personal musings of Solutions Engineer and IT Pro Veteran Bryce McDonald
 author:

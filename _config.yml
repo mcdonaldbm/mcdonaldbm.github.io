@@ -13,18 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bryce McDonald - Blog
-email: bryce.mcdonald@phishme.com
-description: > # this means to ignore newlines until "baseurl:"
-  The personal musings of Solutions Engineer and IT Pro Veteran Bryce McDonald
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.brycematthew.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _brycemcdonald
-github_username:  mcdonaldbm
 
 # Build settings
-markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
 exclude:
@@ -33,3 +26,44 @@ exclude:
 
 # other settings
 encoding: utf-8
+
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: brycematthew
+google_analytics: 
+title: Bryce McDonald - Blog
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Bryce McDonald - Blog
+
+description: The personal musings of Solutions Engineer and IT Pro Veteran Bryce McDonald
+author:
+  name: Bryce McDonald
+  email: bryce.mcdonald@phishme.com
+  github: mcdonaldbm
+  twitter: _brycemcdonald
+  pinterest: gosuyurple
+  linkedin: mcdonaldbm
+  bio: IT Pro Veteran and Solutions Engineer specializing in Powershell and automations
+  email_md5: e2768e2137a7ad8647b9bac511cbeb74
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate

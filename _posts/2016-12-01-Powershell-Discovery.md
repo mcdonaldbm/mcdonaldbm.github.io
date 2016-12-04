@@ -3,7 +3,7 @@ layout: post
 title:  "Powershell Discovery with Get-Command and Get-Help"
 date:   2016-12-01
 categories: Powershell automation
-tags: powershell
+tags: powershell, itpro, automation
 ---
 
 *This is an old post I made in February of 2016.  Since converting to wordpress from time to time I'll be pulling my old posts over and put them here*

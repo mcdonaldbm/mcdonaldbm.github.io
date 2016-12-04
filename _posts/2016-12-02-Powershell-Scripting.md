@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Powershell Discovery with Get-Command and Get-Help"
+date:   2016-12-01
+categories: Powershell automation
+tags: powershell, itpro, automation
+---
+
 At the University we are a weird mix of centralized and decentralized IT support.  A lot of times this means I don't have all of the access I need in order to find all the information I want, but with a little creativity I can get around the roadblocks that centralized IT has in place.
 
 One of these areas that can be difficult to get around is in regards to Active Directory.  We have a large number of user accounts that belong to people as well as departments, and it can be tricky keeping all of them straight.  For our standard user accounts they are set to expire every year, and a password reset will extend the duration for another year.  For department user accounts, however, this is not the case.  Couple that with the fact that we have a large volume of department accounts and all of the annual renewal requests come to me, I typically automatically renew the account with no regard to whether or not it is actually being used.  That was the behavior of my department for a decade before me, so needless to say we have a mess on our hands, and are in dire need of an account audit.

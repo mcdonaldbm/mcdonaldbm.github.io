@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Powershell Discovery with Get-Command and Get-Help"
-date:   2016-12-01
+title:  "Powershell Scripting Get-ADUser Use Case"
+date:   2016-12-02
 categories: Powershell automation
 tags: powershell, itpro, automation
 ---

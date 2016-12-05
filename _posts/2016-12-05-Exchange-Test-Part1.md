@@ -10,18 +10,24 @@ Recently I was tasked with a really fun problem that I thought would be fun to b
 
 ### The Problem
 
-Essentially, I have to create a fake exchange environment full of dummy users to test a plugin.  Fortunately for me, I don't have to build the test environment from the ground up since my IT group already had something created.  Unfortunately for me, that means I can't run rampant through the environment.  (No, Ralph, you'll have to go away https://67.media.tumblr.com/16e4ef55bf8a5ad3492d23ceb3b2038b/tumblr_nhshmc54wr1qb9pa3o1_500.gif)
+Essentially, I have to create a fake exchange environment full of dummy users to test a plugin.  Fortunately for me, I don't have to build the test environment from the ground up since my IT group already had something created.  Unfortunately for me, that means I can't run rampant through the environment. I won't be able to do anything like this, this time around...  ![I'm gonna wreck it!](/images/exchangetest1.gif)
 
 In my case, I needed more than 350 THOUSAND users (ideally 500k+) and a ton of distribution lists.  This sounded like a perfect opportunity to write a Powershell script to solve the task at hand.
 
 ### The Steps
 
 Laying out my steps to complete the project, I would need to do the following
+
 	**Using Powershell Remoting, be able to control the remote computer**
+
 	Create the list of users and distribution lists I need to create in the exchange environment
+
 	*subtask -> keep said list so I could eventually remove all of the dummy users (this isn't MY test environment after all)
+
 	Actually create the entries in the GAL
+
 	Run all tests the project was created for
+
 	Clean up the test environment
 	
 

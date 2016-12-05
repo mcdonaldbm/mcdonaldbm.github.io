@@ -48,3 +48,5 @@ That was nice and easy.  Now I need to remote into the Exchange server…  This'
 Now, with the session and credentials set up properly, I can go ahead and enter my remote session to exchange.
 
 `Import-PSSession $session`
+
+Once I'm in my session, Powershell will behave as though I'm on that computer.  Well...  for the most part.

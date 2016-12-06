@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Large Exchange Test Environment (Part 1)"
-date:   2016-12-05
+date:   2016-12-06
 categories: Powershell automation exchange
 tags: powershell, itpro, automation, exchange, remoting
 ---
@@ -21,8 +21,6 @@ Laying out my steps to complete the project, I would need to do the following
 	**Using Powershell Remoting, be able to control the remote computer**
 
 	Create the list of users and distribution lists I need to create in the exchange environment
-
-	*subtask -> keep said list so I could eventually remove all of the dummy users (this isn't MY test environment after all)
 
 	Actually create the entries in the GAL
 
@@ -50,3 +48,5 @@ Now, with the session and credentials set up properly, I can go ahead and enter 
 `Import-PSSession $session`
 
 Once I'm in my session, Powershell will behave as though I'm on that computer.  Well...  for the most part.
+
+Now that I've connected to the remote computer, we can start getting to work on creating the list of dummy users for the exchange environment, that way we actually have something to retrieve.

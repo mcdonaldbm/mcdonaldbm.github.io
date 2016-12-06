@@ -18,11 +18,11 @@ In my case, I needed more than 350 THOUSAND users (ideally 500k+) and a ton of d
 
 Laying out my steps to complete the project, I would need to do the following
 
-* **Using Powershell Remoting, be able to control the remote computer**\
-* Create the list of users and distribution lists I need to create in the exchange environment\
-* Actually create the entries in the GAL\
-* Run all tests the project was created for\
-* Clean up the test environment\
+* **Using Powershell Remoting, be able to control the remote computer**
+* Create the list of users and distribution lists I need to create in the exchange environment
+* Actually create the entries in the GAL
+* Run all tests the project was created for
+* Clean up the test environment
 	
 
 ### Powershell Remoting

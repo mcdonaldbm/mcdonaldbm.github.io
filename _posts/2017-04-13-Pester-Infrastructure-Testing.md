@@ -6,8 +6,6 @@ categories: Powershell pester
 tags: powershell, itpro, automation, pester, testing, infrastructure
 ---
 
-# Infrastructure Testing with Pester
-
 I just got back from the Powershell Summit 2017 conference in Seattle, and boy did it get my brain working.  There are lots of talented people in the community and the Summit is the place to meet them all, share ideas, and really wrack your brain trying to squeeze out useful information to help others on the bleeding edge of Powershell development and implementation.
 
 One of the topics that came up very often was Pester.  At a high level, Pester is a testing framework for Powershell to help a developer make sure that their code is doing what they actually want it to do.  Once we apply the principles of Test Driven Development (TDD) to our code - that is, writing our tests to scaffold our code before we actually write the code - we end up with more modularized and more functional code.  This can then be applied to a pipeline to help automate coding releases within an organization.

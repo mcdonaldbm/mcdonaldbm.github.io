@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powershell Summit 2017 Recap"
-date:   2017-04-14
+date:   2017-04-15
 categories: Powershell automation exchange summit
 tags: powershell, itpro, automation, summit
 ---
@@ -60,21 +60,31 @@ This was a general Q&A with Don on how we can host our own Powershell Saturday. 
 
 #### Manage Azure Web Apps with Visual Studio and Powershell
 
-
+One of the themes I noticed during the talks is that Azure is going to be a very important part of keeping up with DevOps and Automation to scale.  Tim Warner led this talk and pointed me in the direction of Azure for a work app that we are working on.  With Azure, there are several options for automations, but more importantly I learned about Azure Functions, which lets you run small pieces of code in the cloud.  I'm excited to see this relatively new technology catch on as a critical component of businesses infrastructure.
 
 #### PKI - Not the snoozefest you'd expect
 
-#### Powershell Core 6 - Test and Code Coverage
+The PKI talk was particularly interesting to me.  As someone who has set up PKI infrastructure and performed a penetration test against it, it is refreshing to see that Missy Januzko is taking on the tough task of creating a DSC script to automate the whole thing.  Manually, a PKI setup is a nightmare.  I'd link a blog post here which would show how to set one up, but it may drive away the few readers I actually get so you'll just have to trust me.  She showed off the work she has done on the PKI aspects of Powershell DSC, then walked us through her setup.  I can only hope that someday I'm as skilled at authoring DSC resources as she is.
 
 ### Wednesday - Panels and Discussions
 
+It wouldn't be a technology conference without more drinking.  I was slightly more groggy going into the Wednesday lectures and panels, but they were riveting nonetheless.  Again, with about a gallon of coffee in me I was able to take some notes and pay attention.
+
 #### How Azure Automation Solves Key Powershell Challenges
+
+Led by the Azure Powershell team, we discussed what you can automate with Powershell in Azure.  We discussed all the different options, between functions, workflows, and using DSC with Azure to keep your code and infrastructure scaling the way it needs to.
 
 #### Debugging Powershell and Defensive Scripting Techniques
 
+I had done some debugging with other code before, but I don't think I've taken the time to sit down and officially debug my Powershell code... well...  ever!  In this talk, we discussed ways to step through your code and ways to help your efficiency with debugging.  For the most part, I had only looked at any red text generated and used that to inform my next steps to "debug" my Powershell.  I'm going to be writing a blog post on this in the near future, since a lot of the discussion was very in depth and interesting and VERY useful to the community.
+
 #### What makes a good shared Powershell Module
 
+I've never talked about Powershell documentation as heavily until this.  More than just structure and syntax, we took it further and discussed what should be present in your help files.   The most memorable parts of the discussion were around the SYNOPSIS sections of the Powershell help files.  I'm more than guilty of using the verb-noun structure to define what my function does.  "Verb-Noun is a function that verbs the noun" has come up more than a few times for me.  What ended up being discussed is that a SYNOPSIS should be no longer than a tweet.  Pretty effective talk if you ask me.
+
 #### Community Lightning Demos
+
+I met a gentleman named Mike who is significantly better at tweeting than I am, and if you look in his [twitter feed](https://twitter.com/barbariankb) back to April 12 2017, he tweeted every single lightning demo and the user doing the demo.  Awesome guy, and amazing record keeping!
 
 #### Powershell in the Real World (Panel)
 
@@ -83,7 +93,7 @@ Lots of blogging ideas came out of this session.  We had the opportunity to disc
 - How to manage multiple versions of Powershell (i.e. Powershell 2 and 5 in the same environment)
 - How to manage a network without PS Remoting (PSExec)
 - Writing code to scale
-- Secure credential management
+- Secure credential management in Powershell code
 
 ### Thursday - Homeward Bound
 

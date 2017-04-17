@@ -32,7 +32,7 @@ Don led this talk as the keynote speaker.  The numbers of users behind Powershel
 
 #### AMA with Jeff Snover
 
-Jeff is obviously a genius, and it showed in his talk.  We got to hear the "how" and "why" behind his decisions with the direction he took Powershell, and where he is going from here.  There was a user who posted the annotated AMA to Reddit - a quick google search ought to help you find that.
+Jeff is obviously a genius, and it showed in his talk.  We got to hear the "how" and "why" behind his decisions with the direction he took Powershell, and where he is going from here.  [Brian Bunke](https://twitter.com/brianbunke) made a great writeup of the entire AMA and posted it to reddit and his [personal blog.](http://www.brianbunke.com/blog/2017/04/11/snover-ama/)
 
 #### State of the Shell (Led by the Powershell Team)
 

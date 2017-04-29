@@ -24,15 +24,15 @@ On our trip to New Orleans, Heidi was able to sit down with us, listen to our co
 
 There are many reasons to adopt the Agile mindset moving forward in any organization, but the two that stuck out in my mind are:
 
-1) Agile allows an organization to pivot on a dime to make the necessary changes to accomplish a goal via dynamic feedback
-2) Agile flips the org chart - putting custmoers in charge with the workers as the decision makers as opposed to management coming from the top down.
+1. Agile allows an organization to pivot on a dime to make the necessary changes to accomplish a goal via dynamic feedback
+2. Agile flips the org chart - putting custmoers in charge with the workers as the decision makers as opposed to management coming from the top down.
 
 There are many more reasons of why an organization should make the leap to Agile of course, but these were the ones that really stuck with me.  Agile also has four main values which help with the mindset.  One thing to note about these items taken directly from the "Agile Manifesto" is that we value all of the items listed, but the ones in bold we will value **more**:
 
-1) **Individuals and Interactions** over processes and tools
-2) **Working software** over comprehensive documentation
-3) **Customer Collaboration** over contract negotiation
-4) **Responding to Change** over following a plan
+1. **Individuals and Interactions** over processes and tools
+2. **Working software** over comprehensive documentation
+3. **Customer Collaboration** over contract negotiation
+4. **Responding to Change** over following a plan
 
 Through these four tenants of the "Agile Manifesto" we can already begin to see how this is different from the traditional Waterfall approach.  With Waterfall, we would gather our requirements, march diligently toward a release, checking off all the boxes along the way.  If any problems arose that a checkbox didn't address, we would oftentime start over, factoring in that deviant idea.  The Waterfall approach is very rigid and inflexible, because it tends to value the items on the right side of that list more than the items on the left.
 

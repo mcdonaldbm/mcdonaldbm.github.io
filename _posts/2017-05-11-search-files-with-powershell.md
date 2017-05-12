@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Search Files with Powershell"
-date:   2016-04-15
+date:   2016-05-11
 categories: Powershell automation
 tags: powershell, itpro, automation
 ---

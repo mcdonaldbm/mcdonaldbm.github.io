@@ -47,10 +47,10 @@ defaults:
 description: The personal musings of Solutions Engineer and IT Pro Veteran Bryce McDonald
 author:
   name: Bryce McDonald
-  email: bryce.mcdonald@phishme.com
+  email: bryce@northcodesolutions.com
   github: mcdonaldbm
   twitter: _brycemcdonald
-  pinterest: gosuyurple
+  pinterest:
   linkedin: mcdonaldbm
   bio: IT Pro Veteran and Solutions Engineer specializing in Powershell and automations
   email_md5: e2768e2137a7ad8647b9bac511cbeb74

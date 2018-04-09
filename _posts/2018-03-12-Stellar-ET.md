@@ -6,7 +6,7 @@ categories: Powershell automation exchange
 tags: automation, exchange
 ---
 
-Ok, so pardon my pun in the title, but I had the opportunity to review a product for a company called Stellar.  In particular, I'm looking at their [Exchange Recovery Tool](https://www.stellarinfo.com/edb-exchange-server-recovery.htm).  It's not often that I look to other tools to perform critical tasks around work, but in this case I made an exception.  There *are* times where you simply can't code something yourself - especially in the Exchange world.  This is where Stellar comes in.
+Ok, so pardon my pun in the title, but I had the opportunity to review a product for a company called Stellar.  In particular, I'm looking at their [Exchange Recovery Tool](https://www.stellarinfo.com/email-tools/exchange-toolkit.php).  It's not often that I look to other tools to perform critical tasks around work, but in this case I made an exception.  There *are* times where you simply can't code something yourself - especially in the Exchange world.  This is where Stellar comes in.
 
 On first launch, I'll admit the software doesn't look like much.  It gives you a few simple buttons, but I think that's part of the simplicity of this tool that I've come to respect.  As everyone knows, I'm a huge fan of automation.  I'm an even bigger fan when someone else writes the automations for me.  Let's take a look at what all this utility can do:
 

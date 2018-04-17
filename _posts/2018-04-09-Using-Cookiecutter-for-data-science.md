@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Title Here"
+title:  "Managing Data Science Projects with Git"
 date:   2018-04-09
 categories: Powershell automation exchange
 tags: python, automation, data science

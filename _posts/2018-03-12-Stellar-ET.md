@@ -10,7 +10,7 @@ Ok, so pardon my pun in the title, but I had the opportunity to review a product
 
 On first launch, I'll admit the software doesn't look like much.  It gives you a few simple buttons, but I think that's part of the simplicity of this tool that I've come to respect.  As everyone knows, I'm a huge fan of automation.  I'm an even bigger fan when someone else writes the automations for me.  Let's take a look at what all this utility can do:
 
-![Screen Shot 2018-03-12 at 04.18.20 PM](/images/stellar/GUI.png)
+![Screen Shot 2018-03-12 at 04.18.20 PM](/images/stellar/GUI.jpg)
 
 At a high level (and in order from left to right), the toolkit provides the following functions:
     * Corrupt Exchange database recovery
@@ -26,13 +26,13 @@ Let's walk through a simple example of corrupt Exchange recovery using this tool
 
 We'll start by finding the .EDB file for our Exchange environment.  Launching the `Stellar Phoenix Mailbox Exchange Recovery` tool, we're brought to this screen which will get us started.  
 
-![Screen Shot 2018-03-12 at 04.35.15 PM](/images/stellar/Select.png)
+![Screen Shot 2018-03-12 at 04.35.15 PM](/images/stellar/Select.jpg)
 
 Don't know where your EDB files are?  Don't worry, they've thought of that (just click "Find EDB")
 
 Next, you get to choose between their quick or extensive scanning options.
 
-![Screen Shot 2018-03-12 at 4.38.19 PM](/images/stellar/Scan.png)
+![Screen Shot 2018-03-12 at 4.38.19 PM](/images/stellar/Scan.jpg)
 
 Generally I'd recommend doing the quick scan if time is of the essence (and Stellar confirms that this will work in *most* cases of edb corruption), but if you have time to spare before everyone gets in the office, go ahead and run the extensive scan.
 

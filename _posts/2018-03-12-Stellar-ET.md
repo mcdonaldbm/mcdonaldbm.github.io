@@ -13,6 +13,7 @@ On first launch, I'll admit the software doesn't look like much.  It gives you a
 ![Screen Shot 2018-03-12 at 04.18.20 PM](/images/stellar/GUI.jpg)
 
 At a high level (and in order from left to right), the toolkit provides the following functions:
+
     * Corrupt Exchange database recovery
     * Converts mailboxes on the database to PST's
     * Converts OST files to PST's

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding and Removing Keyboard Languages with PowerShell"
-date:   2016-12-05
+date:   2018-06-05
 categories: PowerShell
 tags: powershell, itpro, automation
 ---

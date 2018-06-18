@@ -6,8 +6,6 @@ categories: Powershell automation
 tags: powershell
 ---
 
-# Configuring CloudWatch with Powershell
-
 Amazon's CloudWatch is a powerful AWS service which monitors deployed systems, and can respond with alerts or even react by calling another AWS service.  CloudWatch alarm creation is typically done via the AWS Management Console, but today I'm going to show you how to configure an alarm yourself.  When you're talking about automating deployments of entire environments, scripting your CloudWatch alarm's creation becomes necessary especially as the environment increases in complexity and scope.  In this article, we'll discuss how to create CloudWatch alarms with PowerShell.
 
 ## Prerequisites

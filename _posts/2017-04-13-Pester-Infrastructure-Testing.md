@@ -60,4 +60,4 @@ Describe 'Software Tests' {
 
 In this article, I hope you learned a little more about Pester, Infrastructure testing, why you ought to do it, and you even saw an example of how you could use Pester to query for a .NET version on a machine.  The scripts and code in my posts could always be taken a few steps further, but I want you to use this as a launching point to write your own infrastructure tests!
 
-As always, feel free to tweet at me [@_brycemcdonald](https;//twitter.com/_brycemcdonald) if you have any questions or suggestions for this post.  Thanks for reading!
+As always, feel free to tweet at me [@_brycemcdonald](https://twitter.com/_brycemcdonald) if you have any questions or suggestions for this post.  Thanks for reading!

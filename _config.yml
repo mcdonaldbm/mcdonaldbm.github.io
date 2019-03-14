@@ -44,7 +44,7 @@ defaults:
     values:
       title: Bryce's Blog
 
-description: The personal musings of Solutions Engineer and IT Pro Veteran Bryce McDonald
+description: The personal blog of Bryce McDonald - follow NorthCode Solutions and @_brycemcdonald for more.
 author:
   name: Bryce McDonald
   email: bryce@northcodesolutions.com
@@ -52,7 +52,7 @@ author:
   twitter: _brycemcdonald
   pinterest:
   linkedin: mcdonaldbm
-  bio: IT Pro Veteran and Solutions Engineer specializing in Powershell and automations
+  bio: IT Pro, Entrepeneur, Solutions Engineer, specializing in Powershell and Automation.  Follow me on GitHub, Twitter, and more!
   email_md5: e2768e2137a7ad8647b9bac511cbeb74
 
 rss_path: feed.xml

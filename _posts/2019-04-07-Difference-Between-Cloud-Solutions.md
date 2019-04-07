@@ -8,7 +8,7 @@ tags: entrepeneurship, business, startup, automation
 
 What I've found, working in the industry that I do, is that there is a significant difference between ways people view the cloud.  Some people see it as a way to utilize someone elses hardware to do the same tasks that they'd normally do if they had owned it themselves.  In this case, there's a meme floating around that "the cloud is just someone elses computer" and it's pretty accurate.  There are others of us, on the other hand, who recognize how the cloud can revolutionize digital workflows, and I'm going to do my best to explain the difference between these two viewpoints and how that relates to the levels of service you can expect from the cloud.  I've included a handy infographic to help compare the two, and I've gone into more detail in the article
 
-![Difference between server/client and cloud models](images\server_vs_cloud_infographic.jpg)
+![Difference between server/client and cloud models](/images/server_vs_cloud_infographic.jpg)
 
 ## The Server Client Model
 

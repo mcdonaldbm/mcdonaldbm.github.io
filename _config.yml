@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.brycematthew.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.brycemcdonald.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 gems:
@@ -42,7 +42,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Bryce's Blog
+      title: BryceMcDonald.ps1
 
 description: The personal blog of Bryce McDonald - follow NorthCode Solutions and @_brycemcdonald for more.
 author:
@@ -66,3 +66,6 @@ BASE_PATH:
 
 gems:
   - jekyll-paginate
+
+plugins:
+  - jekyll-redirect-from

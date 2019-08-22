@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Use a Code Editor"
+title:  "PowerShell Tip: Use a Code Editor"
 date:   2019-08-22
 categories: Powershell automation
 tags: powershell, itpro, automation, ebook

@@ -79,3 +79,9 @@ Want to keep learning how to best use Visual Studio Code for your PowerShell dev
 * [Adam the Automator Blog](https://adamtheautomator.com)
 * [Bryce's Blog](https://www.brycemcdonald.net)
 * [Official Microsoft Docs](https://code.visualstudio.com/docs)
+
+_This PowerShell Tip is part of an ebook!  Check it out [on Leanpub](https://leanpub.com/powershelltips)_
+
+_Can't get enough of me?  Be sure to follow me on Twitter_ [@_brycemcdonald](https://twitter.com/_brycemcdonald).
+
+_Did you know I'm available for hire?  Contact me for details via twitter, email, or on the [NorthCode Solutions](http://www.northcodesolutions.com) website._
